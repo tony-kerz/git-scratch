@@ -1,4 +1,4 @@
 var x = {
-  a: 'foo',
-  b: 'bar'
+  a: 'a-val',
+  b: 'b-val'
 }
